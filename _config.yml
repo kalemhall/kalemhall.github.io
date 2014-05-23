@@ -8,3 +8,7 @@ url: "http://yourdomain.com"
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+
+gems:
+- jekyll-compass
